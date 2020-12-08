@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "First post"
+date:   2020-12-07 19:52:08 -0500
+categories:
+---
+I've wanted a place to put some things that I've been working on and how can I not
+have a blog in 2020?
